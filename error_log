@@ -1,0 +1,12 @@
+[13-Mar-2023 19:28:16 UTC] PHP Fatal error:  Cannot redeclare Users_model::get_pacient() in /home2/samsdesi/public_html/eessp/admin/models/Users_model.php on line 20
+[13-Mar-2023 19:28:16 UTC] PHP Fatal error:  Cannot redeclare Users_model::get_pacient() in /home2/samsdesi/public_html/eessp/admin/models/Users_model.php on line 20
+[14-Mar-2023 11:44:17 UTC] PHP Fatal error:  Cannot redeclare Users::adauga_consult_done() in /home2/samsdesi/public_html/eessp/admin/controllers/Users.php on line 225
+[14-Mar-2023 11:44:17 UTC] PHP Fatal error:  Cannot redeclare Users::adauga_consult_done() in /home2/samsdesi/public_html/eessp/admin/controllers/Users.php on line 225
+[27-May-2023 13:27:00 UTC] PHP Fatal error:  Cannot declare class Users_model, because the name is already in use in /home2/samsdesi/public_html/mpsam/admin/models/Medici_model.php on line 0
+[27-May-2023 13:27:00 UTC] PHP Fatal error:  Cannot declare class Users_model, because the name is already in use in /home2/samsdesi/public_html/mpsam/admin/models/Medici_model.php on line 0
+[27-May-2023 17:31:56 UTC] PHP Fatal error:  Cannot redeclare Admin::view_profile() in /home2/samsdesi/public_html/mpsam/admin/controllers/Admin.php on line 203
+[27-May-2023 17:31:56 UTC] PHP Fatal error:  Cannot redeclare Admin::view_profile() in /home2/samsdesi/public_html/mpsam/admin/controllers/Admin.php on line 203
+[27-May-2023 18:00:30 UTC] PHP Fatal error:  Cannot re-assign $this in /home2/samsdesi/public_html/mpsam/admin/hooks/FrontendHooks.php on line 23
+[27-May-2023 18:00:30 UTC] PHP Fatal error:  Cannot re-assign $this in /home2/samsdesi/public_html/mpsam/admin/hooks/FrontendHooks.php on line 23
+[27-May-2023 21:09:48 UTC] PHP Fatal error:  Cannot redeclare Medici_model::get_medic() in /home2/samsdesi/public_html/mpsam/admin/models/Medici_model.php on line 60
+[27-May-2023 21:09:48 UTC] PHP Fatal error:  Cannot redeclare Medici_model::get_medic() in /home2/samsdesi/public_html/mpsam/admin/models/Medici_model.php on line 60
